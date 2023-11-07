@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-  - [Credit card Fraud detection System using machine learning & Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Credit card Fraud detection System using machine learning & Python](https://github.com/DenilsonCSN/Creditcardfrauddetectionsystem/tree/main)
 
 <h2>📄 Certifications</h2>
 
