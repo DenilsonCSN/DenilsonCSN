@@ -4,7 +4,6 @@
 
   - [Credit card Fraud detection System using machine learning & Python](https://github.com/DenilsonCSN/Creditcardfrauddetectionsystem/tree/main)
   - [Cisco Packet Tracer Network Configuration and Design](https://github.com/DenilsonCSN/Cisco-Packet-Tracer-Network-Design/tree/main)
-  - [Active Directory Home Lab] ..
 
 <h2>📄 Certifications</h2>
 
