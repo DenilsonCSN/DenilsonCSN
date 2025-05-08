@@ -1,4 +1,12 @@
-<h1>Hi, I'm Denilson! </h1>
+<h1>👋 Hi, I'm Denilson Costa! </h1>
+
+<h2>🎓 Cybersecurity & Networks Graduate | First-Class BSc (Hons)</h2>
+
+<h2>💻 Currently building hands-on IT and security projects in my home lab using:</h2>
+
+- Python (network scanners, automation)
+- Nmap & Wireshark (traffic analysis)
+- Linux VMs with VPN and UFW firewall configuration
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
